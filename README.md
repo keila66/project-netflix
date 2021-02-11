@@ -17,3 +17,5 @@ Projeto realizado na plataforma [Digital Innovation One](https://digitalinnovati
 - Cores dos botões principais;
 - Adicionei um título para a seção dos filmes;
 - Hover nos itens do carrosel (ao passar o mouse por cima dos posters aparece uma bordar branca destacando a seleção);
+
+![Imgur](https://i.imgur.com/xrNL5Yc.jpg)
